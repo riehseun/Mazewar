@@ -1,0 +1,24 @@
+README
+
+Instruction to run:
+1. Open a terminal and run:
+      make
+   in the mazewar directory.
+
+2. Run the server by running: 
+      java MazewarServer [port]
+   where port is the TCP port you are running on.
+   
+   You can also run the server.sh script to start the server on port 4444.
+
+3. Open another terminal and start the client with the command: 
+      java Mazewar [IP] [port]
+   where IP is the ip address of the server and port is the TCP port the server is running on.
+
+   You can also run the client.sh script to start the client and connect to the server on localhost:4444
+
+   DO NOT move the client (hit any keys) until all clients have connected or the game will be inconsistent.
+
+4. Repeat step 3 until you have 4 running clients.
+
+5. Play the game :)

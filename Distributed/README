@@ -1,0 +1,7 @@
+Erwin Magnaye
+Seungmoon Rieh
+
+1. Write "Make" to compile
+2. Write "./name.sh" to run the naming server
+3. Write "java Mazewar localhost 3001", "java Mazewar localhost 3002", etc to run each client
+4. Sub "localhost" to ip address of the host computer if connecting from different computer
